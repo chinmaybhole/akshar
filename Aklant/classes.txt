@@ -1,0 +1,3 @@
+mask
+mask_weared_incorrect
+no_mask
